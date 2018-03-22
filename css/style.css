@@ -17,15 +17,13 @@ body {
     list-style-type: none;
     margin:0;
     padding:0;
-    text-align:center;
 }
 #navi li {
      display: inline;
 }
 #navi li a{
-     display: block;
+    display: block;
     color: black;
-    text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
