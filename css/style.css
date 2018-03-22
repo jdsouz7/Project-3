@@ -20,7 +20,6 @@ body {
 }
 #navi li {
      display: inline;
-     float: left;
 }
 #navi li a{
     display: block;
