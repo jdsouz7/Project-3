@@ -1,7 +1,7 @@
 html {
 	background-color: Azure;
 	}
-header{
+header {
   text-align: center;
   font-family: 'PT Sans', sans-serif;
 }
@@ -11,7 +11,7 @@ body {
 	text-align: center;
 	color: black;
 }
-.nav{
+.nav {
     border:1px solid #ccc;
     border-width:1px 0;
     list-style:none;
@@ -19,17 +19,17 @@ body {
     padding:0;
     text-align:center;
 }
-.nav li{
+.nav li {
      float: left;
 }
-.nav a{
+.nav li a{
      display: block;
     color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
-.nav a:hover {
+.nav li a:hover {
     background-color: #FAFAD2;
 }
 .active {
@@ -72,5 +72,4 @@ ul {
 	margin-right: -3em;
 	padding: 0;
         overflow: hidden;
-	background-color: Azure;
 }
