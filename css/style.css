@@ -31,7 +31,8 @@ body {
     background-color: #FAFAD2;
 }
 .active {
-    background-color: #4CAF50;
+    background-color: #E6E6FA
+    color:white;
 }
 img {
 	width:100%;
