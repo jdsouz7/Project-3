@@ -20,12 +20,21 @@ body {
     text-align:center;
 }
 .nav li{
-    display:inline;
+     float: left;
 }
 .nav a{
-    display:inline-block;
-    padding:10px;
-}	
+     display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.nav a:hover {
+    background-color: #FAFAD2;
+}
+.active {
+    background-color: #4CAF50;
+}
 img {
 	width:100%;
 	margin:0;
@@ -62,5 +71,6 @@ ul {
 	margin-left: -3em;
 	margin-right: -3em;
 	padding: 0;
-    overflow: hidden;
+        overflow: hidden;
+	background-color: Azure;
 }
