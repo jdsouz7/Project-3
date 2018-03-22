@@ -20,7 +20,7 @@ body {
     text-align:center;
 }
 #navi li {
-     float: left;
+     display: inline;
 }
 #navi li a{
      display: block;
