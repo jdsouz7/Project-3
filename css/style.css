@@ -11,6 +11,12 @@ body {
 	text-align: center;
 	color: black;
 }
+#navi {
+	text-align: center;
+	padding-bottom:10px;
+        padding-top:10px;
+}
+
 #navi ul {
     border:1px solid #ccc;
     border-width:1px 0;
