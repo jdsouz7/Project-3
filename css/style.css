@@ -12,11 +12,15 @@ body {
 	color: black;
 }
 #navi {
+	width: 100%;
 	font-family: 'Source Sans Pro', sans-serif;
-	float: left;
-	padding-bottom:10px;
-        padding-top:10px;
-	list-style: none; 
+	text-align: center;
+	margin: 0 0 3em 0;
+	padding: 0;
+	list-style: none;
+	background-color: #f2f2f2;
+	border-bottom: 1px solid #ccc; 
+	border-top: 1px solid #ccc;
        }
 
 #navi ul {
@@ -33,6 +37,7 @@ body {
     display: block;
     color: black;
     padding: 14px 16px;
+    font-weight: bold;
     text-decoration: none;
 }
 #navi li a:hover {
