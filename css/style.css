@@ -12,6 +12,7 @@ body {
 	color: black;
 }
 #navi {
+	font-family: 'Source Sans Pro', sans-serif;
 	text-align: center;
 	padding-bottom:10px;
         padding-top:10px;
