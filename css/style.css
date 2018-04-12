@@ -31,7 +31,7 @@ body {
     padding:0;
 }
 #navi li {
-     text-align: center;
+     display: inline;
 }
 #navi li a{
     display: block;
