@@ -11,6 +11,10 @@ body {
 	text-align: center;
 	color: black;
 }
+#map {
+	height: 400px;
+	width: 100%;
+        margin: 50px;
 #navi {
 	width: 100%;
 	font-family: 'Source Sans Pro', sans-serif;
